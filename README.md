@@ -45,16 +45,12 @@ Codyssey **GenAI 기초 2: 멀티모달 콘텐츠 제작** 과제 제출물입�
 </p>
 <p align="center"><sub>씬1 손인사 · 씬2 소원빌기 · 씬3 로고 변형(시작 프레임) · 씬4 브랜드 마무리</sub></p>
 
-최종 영상 재생 (GitHub 업로드 후 아래 태그로 재생 가능):
-
-```html
-<video src="./광고_영상_파일.mp4" controls width="480"></video>
-```
+최종 영상은 [`광고_영상_파일.mp4`](./광고_영상_파일.mp4)를 클릭하면 GitHub 화면에서 바로 재생할 수 있습니다.
 
 ## 📁 폴더 구조
 
 ```
-B1-2-multimodal-content/
+codyssey-b1-2-multimodal-content/
 ├── README.md
 ├── 스토리보드_기획문서.pdf        # 기획 문서 (브랜드 정의·씬별 프롬프트·도구 비교 등)
 ├── 광고_영상_파일.mp4             # 최종 제출 영상 (1080p·30fps·H.264/AAC·9.97초)
